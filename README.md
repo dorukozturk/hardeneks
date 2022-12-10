@@ -1,6 +1,6 @@
 # Hardeneks
 
-#Hosted on https://github.com/aws-samples/hardeneks
+#Hosted here https://github.com/aws-samples/hardeneks
 
 [![PyPI version](https://badge.fury.io/py/hardeneks.svg)](https://badge.fury.io/py/hardeneks)
 [![PyPI Supported Python Versions](https://img.shields.io/pypi/pyversions/hardeneks.svg)](https://pypi.python.org/pypi/hardeneks/)
